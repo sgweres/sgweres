@@ -1,10 +1,9 @@
 # Steven Weres
-## Junior Software Devoloper/ IT Operations Specialist
+## Junior Software Devoloper/ Network Engineer
 ### Learning C# @ Microsoft Software & Systems Academy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Working on new projects and hope to contribute to yours!
+- 📫 https://www.linkedin.com/in/steven-weres/
+- 
 
 <!---
 sgweres/sgweres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
