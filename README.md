@@ -1,6 +1,6 @@
 # Steven Weres
 ## Junior Software Devoloper/ Network Engineer
-### Learning C# @ Microsoft Software & Systems Academy
+### Microsoft Software & Systems Academy alumnus
 - Working on new projects and hope to contribute to yours!
 - 📫 https://www.linkedin.com/in/steven-weres/
 - Experience designing applications using C#, HTML, CSS, mySQL, .NET MAUI, and Azure. 
